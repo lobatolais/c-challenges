@@ -29,7 +29,7 @@ int main()
             }
             valorPi = 4 * somaTermos;
         }
-    printf("Valor de PI com %d termos: %lf \n", numeroTermos, valorPi);
+        printf("Valor de PI com %d termos: %lf \n", numeroTermos, valorPi);
     } 
 
     return 0;
