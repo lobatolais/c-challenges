@@ -31,3 +31,9 @@ Para a Lista 5 de exercícios da disciplina, apresentou-se os comandos iterativo
 * [seleciona-caracteres](#seleciona-caracteres.c) - Este programa lê os inputs de caracteres do teclado e retorna o número de caracteres em minúsculo e o número de caracteres em maiúsculo informados.
 * [calcula-funcao](#calcula-funcao.c) - Este programa lê um valor x do teclado e calcula o valor aproximado da função nesse ponto x.
 * [menor-maior-num](#menor-maior-num.c) - Este programa lê números inteiros do usuário e retorna na tela o o menor e o maior valor lido. 
+
+### Lista 6
+Para a Lista 6 de exercícios da disciplina, desenvolveu-se a noção de tipos estruturados básicos, envolvendo arranjos de uma dimensão e classificação de vetores.
+* [cont-vogais](#cont-vogais.c) - Este programa lê um string do usuário e cria outro string sem os espaços em branco, apresentando também o número de vogais presentes no string original.
+* [par-impar-arranjo](#par-impar-arranjo.c) - Este programa gera um arranjo com a mesma quantidade de números ímpares e pares, e inverte posteriormente esses números em um novo arranjo.
+* [media-quadrados-raizes](#media-quadrados-raizes.c) - Este programa gera um arranjo unidimensional e calcula a média dos quadrados e das raizes dos valores armazenados nesse arranjo.
