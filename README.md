@@ -20,3 +20,8 @@ Para a Lista 3 de exercícios da disciplina, avançou-se no estudo dos operadore
 * [doacao-sangue](#doacao-sangue.c) - Este programa informa se o usuário tem as condições necessárias para doar sangue.
 * [preco-estacionamento](#preco-estacionamento.c) - Este programa calcula o valor final a ser pago pelo tempo de utilização de um estacionamento.
 * [raiz-equacao](#raiz-equacao.c) - Este programa calcula as raízes de uma equação de segundo grau.
+
+### Lista 4
+Para a Lista 4 de exercícios da disciplina, seguiu-se com a apresentação do comando Switch e seus casos de aplicação, e iniciou-se o estudo sobre laços de repetição utilizando primeiramente o comando For.
+* [pagamento-mes-ipva.c](#pagamento-mes-ipva.c) - Este programa identifica o mês de pagamento do IPVA de um carro.
+* [aproxima-valor-pi](#aproxima-valor-pi.c) - Este programa aproxima o valor de pi com uma série finita.
