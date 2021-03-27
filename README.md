@@ -37,3 +37,9 @@ Para a Lista 6 de exercícios da disciplina, desenvolveu-se a noção de tipos e
 * [cont-vogais](#cont-vogais.c) - Este programa lê um string do usuário e cria outro string sem os espaços em branco, apresentando também o número de vogais presentes no string original.
 * [par-impar-arranjo](#par-impar-arranjo.c) - Este programa gera um arranjo com a mesma quantidade de números ímpares e pares, e inverte posteriormente esses números em um novo arranjo.
 * [media-quadrados-raizes](#media-quadrados-raizes.c) - Este programa gera um arranjo unidimensional e calcula a média dos quadrados e das raizes dos valores armazenados nesse arranjo.
+
+## Lista 7
+Para a Lista 7 de exercícios da disciplina, prosseguiu-se com o estudo de arranjos, avançando para arranjos com mais de uma dimensão (matrizes), em conjunto com o estudo sobre números pseudoaleatórios.
+* [matriz-aleatoria](#matriz-aleatoria.c) - Este programa preenche uma matriz de dimensão 4x4 com números aleatórios e imprime o maior número de cada coluna e o menor número de cada linha.
+* [adivinha-numero](#adivinha-numero.c) - Este programa sorteia um número, e compara esse número com o número de entrada pelo usuário, imprimindo na tela uma mensagem sobre o resultado.
+* [calcula-minimax](#calcula-minimax.c) - Este programa gera uma matriz e calcula e imprime na tela o valor do elemento minimax (o menor elemento da linha em que se encontra o maior elemento da matriz).
