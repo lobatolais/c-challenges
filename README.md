@@ -43,3 +43,9 @@ Para a Lista 7 de exercícios da disciplina, prosseguiu-se com o estudo de arran
 * [matriz-aleatoria](#matriz-aleatoria.c) - Este programa preenche uma matriz de dimensão 4x4 com números aleatórios e imprime o maior número de cada coluna e o menor número de cada linha.
 * [adivinha-numero](#adivinha-numero.c) - Este programa sorteia um número, e compara esse número com o número de entrada pelo usuário, imprimindo na tela uma mensagem sobre o resultado.
 * [calcula-minimax](#calcula-minimax.c) - Este programa gera uma matriz e calcula e imprime na tela o valor do elemento minimax (o menor elemento da linha em que se encontra o maior elemento da matriz).
+
+### Lista 8
+Para a Lista 8 de exercícios da disciplina, aplicou-se os conceitos aprendidos sobre definição e paramêtro de funções void, funções tipadas, e escopo de variáveis: locais e globais.
+* [converte-temperatura](#converte-temperatura.c) - Este programa converte temperaturas de graus centígrados para fahrenheit e vice-versa.
+* [calcula-n](#calcula-n.c) - Este programa calcula o valor de N, utilizando um algoritmo conforme o indicador escolhido pelo usuário.
+* [calcula-raiz-cubica](#calcula-raiz-cubica.c) - Este programa calcula a raiz cúbica de um número de acordo com uma aproximação e uma tolerância passada pelo usuário.
