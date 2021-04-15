@@ -33,17 +33,17 @@ void menuOpcoes() {
     int opcao;
 
     do {
-    printf("\nEntre com uma das opcoes: \n1 - Converte centigrados para fahrenheit \n2 – Converte fahrenheit para centigrados \n3 - Sair \n");
-    printf("Opcao: ");
-    scanf("%d", &opcao);
+        printf("\nEntre com uma das opcoes: \n1 - Converte centigrados para fahrenheit \n2 – Converte fahrenheit para centigrados \n3 - Sair \n");
+        printf("Opcao: ");
+        scanf("%d", &opcao);
 
-    if (opcao == 1) { // se a opção selecionada for 1
-        celsiusToFahren(); // chama a função celsiusToFahren
-    } else if (opcao == 2) { // se a opção selecionada for 1
-        fahrenToCelsius(); // chama a função fahrenToCelsius
-    } else if (opcao !=3) { // se a opção selecionada não for uma opção válida
-        printf("Essa opcao nao eh valida \n"); // imprime que a opção não é válida
-    }
+        if (opcao == 1) { // se a opção selecionada for 1
+            celsiusToFahren(); // chama a função celsiusToFahren
+        } else if (opcao == 2) { // se a opção selecionada for 1
+            fahrenToCelsius(); // chama a função fahrenToCelsius
+        } else if (opcao !=3) { // se a opção selecionada não for uma opção válida
+            printf("Essa opcao nao eh valida \n"); // imprime que a opção não é válida
+        }
     } while (opcao != 3); // executa o código enquanto a opção não é 3
 }
 
